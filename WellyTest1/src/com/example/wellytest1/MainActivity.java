@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		Log.d(null,"Sample Only!");
+		Log.d(null,"Some changes again!");
 	}
 
 	@Override
